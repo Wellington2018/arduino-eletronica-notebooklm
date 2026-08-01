@@ -380,8 +380,6 @@ Faça um resumo estruturado deste capítulo destacando os conceitos mais importa
 Apresente um resumo deste conteúdo em formato de tabela contendo as colunas Conceito, Descrição e Exemplo.
 ```
 
----
-
 ### Revisão Rápida
 
 ```text
