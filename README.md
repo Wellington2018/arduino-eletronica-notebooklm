@@ -157,7 +157,6 @@ Durante os testes, foi possível perceber que a qualidade das respostas está di
 | As respostas iniciais apresentavam diversos conceitos em um único texto, dificultando a compreensão de cada assunto. | Refinar os prompts solicitando que o conteúdo fosse organizado por tópicos específicos, como arquitetura, funcionamento, aplicações e limitações. |
 | Algumas respostas eram completas, mas pouco práticas para consulta rápida durante os estudos. | Solicitar que a IA estruturasse as informações em seções bem definidas, facilitando a leitura e a revisão do conteúdo. |
 | Os resumos gerados em texto corrido dificultavam a comparação entre os principais conceitos. | Refinar o prompt para que a saída fosse apresentada em formato de tabela, tornando o material mais organizado e fácil de consultar. |
-| Nem sempre a resposta trazia exemplos práticos de aplicação. | Especificar no prompt que fossem incluídos exemplos utilizando Arduino, sempre que aplicável. |
 | O formato da resposta influenciava diretamente a utilidade do material para estudo. | Passar a definir explicitamente o formato desejado da saída (tópicos, tabelas e exemplos), obtendo respostas mais adequadas para revisão. |
 
 ### Lições Aprendidas
