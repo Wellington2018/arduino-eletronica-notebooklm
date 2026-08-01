@@ -84,7 +84,7 @@ Embora a resposta estivesse correta e bem estruturada, ela abordava diversos ass
 
 ### Prompt refinado
 
-Explique o que é o Arduino considerando separadamente: arquitetura da placa, funcionamento do microcontrolador, ambiente de desenvolvimento (IDE), linguagem de programação, principais aplicações, vantagens e limitações.
+> Explique o que é o Arduino considerando separadamente: arquitetura da placa, funcionamento do microcontrolador, ambiente de desenvolvimento (IDE), linguagem de programação, principais aplicações, vantagens e limitações.
 
 ### Resultado final
 
