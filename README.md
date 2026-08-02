@@ -14,6 +14,7 @@
 - [📖 Contexto](#-contexto)
 - [🎯 Objetivos](#-objetivos)
 - [📚 Curadoria de Fontes](#-curadoria-de-fontes)
+- [🔗 Acesso ao NotebookLM](#-acesso-ao-notebooklm)
 - [🧠 Engenharia de Prompts e Cicatrizes](#-engenharia-de-prompts-e-cicatrizes)
 - [📘 Miniguia de Estudos](#-miniguia-de-estudos)
 - [💡 Conclusão](#-conclusão)
@@ -57,6 +58,12 @@ Foram utilizadas quatro referências abertas, adicionadas ao NotebookLM para ser
 - [Apostila Curso Básico de Arduino - UNIR](https://marcopolo.unir.br/images/downloads/material-extensao/apostila-curso-basico-de-arduino.pdf)
 
 - [Apostila de Eletrônica Básica - CTA Eletrônica](https://www.ctaeletronica.com.br/wp-content/uploads/2019/05/ApostilaM1.pdf)
+
+---
+
+# 🔗 Acesso ao NotebookLM
+
+[Arduino e Eletrônica Aplicada](https://notebook.google.com/notebook/4732c75c-9754-4810-a67e-e5b27ceb96f2)
 
 ---
 
