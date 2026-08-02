@@ -63,7 +63,7 @@ Foram utilizadas quatro referências abertas, adicionadas ao NotebookLM para ser
 
 # 🔗 Acesso ao NotebookLM
 
-[Arduino e Eletrônica Aplicada](https://notebook.google.com/notebook/4732c75c-9754-4810-a67e-e5b27ceb96f2)
+[🔗 Arduino e Eletrônica Aplicada](https://notebook.google.com/notebook/4732c75c-9754-4810-a67e-e5b27ceb96f2)
 
 ---
 
